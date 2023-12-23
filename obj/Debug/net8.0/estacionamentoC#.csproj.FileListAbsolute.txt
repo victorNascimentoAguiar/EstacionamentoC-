@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\bin\Debug\net8.0\estacionamentoC#.exe
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\bin\Debug\net8.0\estacionamentoC#.deps.json
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\bin\Debug\net8.0\estacionamentoC#.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\bin\Debug\net8.0\estacionamentoC#.dll
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\bin\Debug\net8.0\estacionamentoC#.pdb
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.dll
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\refint\estacionamentoC#.dll
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.pdb
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\estacionamentoC#.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\estacionamentoC#\obj\Debug\net8.0\ref\estacionamentoC#.dll
